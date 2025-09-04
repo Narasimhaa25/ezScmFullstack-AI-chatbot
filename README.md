@@ -1,6 +1,6 @@
+<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 02 31 19" src="https://github.com/user-attachments/assets/3a87e682-8a0e-4574-a1f4-a48ed43e9780" />
+<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 02 30 53" src="https://github.com/user-attachments/assets/eb6371a6-e2f3-4ecc-9520-7c8465b76bdf" />
 
-<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 02 30 53" src="https://github.com/user-attachments/assets/b8992dee-9c85-4ec6-85d8-be12eb7bf5d5" />
-<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 02 30 53" src="https://github.com/user-attachments/assets/7b3e737f-cb4c-474c-84f1-a6afcdf0630c" />
 # ezScmFullstack-AI-chatbot
 # Multi-Provider Streaming AI Chat Application
 
