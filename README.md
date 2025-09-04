@@ -39,13 +39,23 @@ Key Features:
 2.Install dependencies:
 pip install -r requirements.txt
 3.Configure environment variables:
-	•	Copy .env.example to .env:
+•	Copy .env.example to .env:
 •	Update the variables:
  DATABASE_URL=sqlite:///./chat.db  # or PostgreSQL URL
 OPENAI_API_KEY=your_openai_key
 CLAUDE_API_KEY=your_claude_key
 GEMINI_API_KEY=your_gemini_key
 4.Run the backend server:
-uvicorn app.main:app --reload
+**uvicorn app.main:app --reload**
+5.Frontend
+	1.Navigate to the frontend folder:
+ 	2.	Install dependencies:
+  			npm install
+	3.Start the React development server:
+ 		npm run dev
+   	4.	Open your browser at:
+	http://localhost:3000
+ 
+	
 
    
