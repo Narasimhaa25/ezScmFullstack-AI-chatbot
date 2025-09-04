@@ -1,5 +1,3 @@
-<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 02 31 19" src="https://github.com/user-attachments/assets/3a87e682-8a0e-4574-a1f4-a48ed43e9780" />
-<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 02 30 53" src="https://github.com/user-attachments/assets/eb6371a6-e2f3-4ecc-9520-7c8465b76bdf" />
 
 # ezScmFullstack-AI-chatbot
 # Multi-Provider Streaming AI Chat Application
@@ -58,7 +56,9 @@ GEMINI_API_KEY=your_gemini_key
  		npm run dev
    	4.	Open your browser at:
 	http://localhost:3000
- 
+ <img width="1680" height="1050" alt="Screenshot 2025-09-05 at 02 31 19" src="https://github.com/user-attachments/assets/3a87e682-8a0e-4574-a1f4-a48ed43e9780" />
+<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 02 30 53" src="https://github.com/user-attachments/assets/eb6371a6-e2f3-4ecc-9520-7c8465b76bdf" />
+
 	
 
    
