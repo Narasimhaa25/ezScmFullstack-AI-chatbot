@@ -68,3 +68,9 @@ DATABASE
 
 <img width="1680" height="1050" alt="Screenshot 2025-09-05 at 03 28 12" src="https://github.com/user-attachments/assets/d92da32c-3daf-48f1-bbdb-fdb741881bc4" />
 <img width="1680" height="1050" alt="Screenshot 2025-09-05 at 03 28 32" src="https://github.com/user-attachments/assets/e3d23972-3748-48ab-a31c-575620ec7877" />
+
+
+<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 03 26 30" src="https://github.com/user-attachments/assets/673f6fc6-30e2-46f8-9085-bc7f6b3173d2" />
+<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 03 26 22" src="https://github.com/user-attachments/assets/017573b3-05c6-425b-93e1-bd95d3f0f281" />
+<img width="1680" height="1050" alt="Screenshot 2025-09-05 at 03 26 16" src="https://github.com/user-attachments/assets/11211b28-f876-4711-87e1-5868ae0773d0" />
+
